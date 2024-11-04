@@ -36,7 +36,7 @@ class _DashboardState extends State<Dashboard> {
             ),
             BarGraphCard(),
             SizedBox(
-              height: 30,
+              height: 40,
             ),
           ],
         ),
